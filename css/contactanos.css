@@ -1,0 +1,38 @@
+#seccionNav {
+    width: 97%;
+    position: absolute;
+    top: 30%;
+    background-color: blueviolet;
+}
+#articleNav,nav {
+    border: 0px solid black;
+    border-radius: 0px;
+}
+nav {
+    width: 30%;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    float: left;
+}
+#articleNav {
+    float: right;
+    width: 65%;
+    padding: 5px;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    background: radial-gradient(#e5ff55, #bfee52);
+}
+.contactos {
+    position: absolute;
+    top: 80%;
+    width: 25%;
+    padding: 10px;
+    margin-left: 5%;
+    background: radial-gradient(#55f9ff, #3fbbbb);
+}
+#contacto2 {
+    left: 31%;
+}
+#contacto3 {
+    left: 61%;
+}

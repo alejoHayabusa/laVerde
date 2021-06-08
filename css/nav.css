@@ -1,0 +1,17 @@
+nav {
+    width: 20%;
+    background: radial-gradient(#999999, #3c3c3c);
+}
+.linksImage {
+    width: 20%;
+}
+a {
+    position: relative;
+    left: 50%;
+}
+.linkText {
+    color: white !important;
+    position: absolute;
+    bottom: 50%;
+    right: 130%;
+}

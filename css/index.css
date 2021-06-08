@@ -1,0 +1,28 @@
+section {
+    position: absolute;
+    top: 30%;
+    width: 58%;
+    background-image: url(https://www.xtrafondos.com/wallpapers/rio-noruego-783.jpg);
+    padding: 0px;
+}
+.linkImage {
+    width: 100%;
+}
+article {
+    width: 11%;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    float: left;
+    padding: 10px;
+    background-color: #55ff7f59;
+    border: 1px solid black !important;
+}
+aside {
+    padding: 15px;
+    position: absolute;
+    top: 30%;
+    left: 63%;
+    width: 30%;
+    background: radial-gradient(#e5ff55, #bfee52);
+}

@@ -1,0 +1,19 @@
+section {
+    background: radial-gradient(#b392ff,#5425c2);
+    width: 28%;
+    margin-left: 5%;
+    position: absolute;
+    top: 30%;
+    padding: 10px;
+}
+.seccion  {
+    width: 100%;
+}
+#seccion2 {
+    left: 35%;
+}
+nav {
+    position: absolute;
+    top: 30%;
+    left: 75%;
+}
